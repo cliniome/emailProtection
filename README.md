@@ -1,2 +1,2 @@
-# emailProtection
+# EmailProtection
 Email Protection
